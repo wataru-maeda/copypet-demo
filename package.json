@@ -13,7 +13,7 @@
     "emotion": "^10.0.17",
     "firebase": "^7.2.1",
     "framer-motion": "^1.6.15",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "moment": "^2.24.0",
     "prismjs": "^1.19.0",
     "prop-types": "^15.7.2",
